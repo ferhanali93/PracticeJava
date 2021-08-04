@@ -1,11 +1,13 @@
-package basic;
+package methods;
 
 
 public class MethodDemo {
     public static void main(String[] args) {
-        MethodDemo obj = new MethodDemo();
+        //1
+        MethodDemo obj = new MethodDemo(); // Creating an object of a class
         obj.sendText();
 
+        //2
         new MethodDemo().sendText();
 
     }

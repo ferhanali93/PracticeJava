@@ -1,4 +1,4 @@
-package basic;
+package methods;
 
 public class ReturnTypeMethods {
     public static void main(String[] args) {

@@ -5,6 +5,7 @@ public class FirstClass {
         System.out.println("This is my first class");
         int x = 30;
 
+        // converting dataType
 
         //method 1 - manually
         double y = (int) x;
